@@ -1,0 +1,59 @@
+{
+    "name": "Blastverse Token List",
+    "timestamp": "2023-08-13T16:12:01.730994194Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {
+      "crypto": {
+        "name": "Crypto Tokens",
+        "description": "Tokens related to cryptocurrency projects"
+      },
+      "social": {
+        "name": "Social Tokens",
+        "description": "Tokens related to social projects"
+      }
+    },
+    "logoURI": "https://blastverse-frontend.vercel.app/logo.svg",
+    "keywords": [
+      "custom",
+      "tokens"
+    ],
+    "tokens": [
+      {
+        "name": "Rebasing USD",
+        "address": "0x4200000000000000000000000000000000000022",
+        "symbol": "USDB",
+        "tags": [
+          "crypto"
+        ],
+        "decimals": 18,
+        "chainId": 168587773,
+        "logoURI": "https://github.com/Blastverse/token-list/blob/main/0x4200000000000000000000000000000000000022/logo.png"
+      },
+      {
+        "name": "Rebasing ETH",
+        "address": "0x4200000000000000000000000000000000000023",
+        "symbol": "WETH",
+        "tags": [
+          "crypto"
+        ],
+        "decimals": 18,
+        "chainId": 168587773,
+        "logoURI": "https://github.com/Blastverse/token-list/blob/main/0x4200000000000000000000000000000000000023/logo.png"
+      },
+      {
+        "name": "Blastverse Token",
+        "address": "0xb2bC88a19427564E3d882C64650A4273578A4894",
+        "symbol": "BSV",
+        "tags": [
+          "crypto"
+        ],
+        "decimals": 18,
+        "chainId": 168587773,
+        "logoURI": "https://github.com/Blastverse/token-list/blob/main/0xb2bC88a19427564E3d882C64650A4273578A4894/logo.png"
+      }
+    ]
+  }
